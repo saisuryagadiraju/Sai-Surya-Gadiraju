@@ -75,9 +75,8 @@ And Many More
 
 ---
 
-##  Recognition & Speaking
+##  Recognition
 
--  Speaker – *AWS GovTech 2025: GenAI in Government Applications*  
 -  Panelist – *IEEE MMAI 2024 Workshop on Multimodal AI*  
 - **Accenture “All Star” & “Own It” Awards** (FY22–23)
 
