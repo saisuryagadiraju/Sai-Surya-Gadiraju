@@ -4,7 +4,7 @@
 
  **M.S. in Data Analytics Engineering – George Mason University**  
 **Machine Learning Researcher | Data Engineer | GenAI Enthusiast**  
-🔗 [LinkedIn](https://www.linkedin.com/in/ssgadiraju/)  [GitHub](https://github.com/saisuryagadiraju) Email: saisurya996644@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/ssgadiraju/) |  [GitHub](https://github.com/saisuryagadiraju) |  Email: saisurya996644@gmail.com
 
 ---
 
