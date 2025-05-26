@@ -59,9 +59,9 @@ I recently completed my **Master’s from George Mason University**, where I led
 ###  Bloomberg to Azure Data Migration
 - Designed ETL pipelines via **Azure Logic Apps, C++**, and REST API  
 - Reduced transmission latency by **35%** and ensured **99.9% data accuracy**
-
-And Many More
 ---
+------- And Many More ----------
+
 
 ## 📚 Publications
 
